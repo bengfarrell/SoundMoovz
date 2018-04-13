@@ -71,8 +71,3 @@ UUID
 # Predefined Services
 * [Device Information Service](https://www.bluetooth.com/specifications/gatt/viewer?attributeXmlFile=org.bluetooth.service.device_information.xml)
 
-
-# 参考
-* [Generic Attributes と Generic Attribute Profile](https://www.bluetooth.com/ja-jp/specifications/generic-attributes-overview)
-* [GATT 記述子](https://www.bluetooth.com/ja-jp/specifications/gatt/descriptors)
-* [【BLEを使う】GATT（Generic Attribute Profile）概要](http://yegang.hatenablog.com/entry/2014/08/09/195246)
