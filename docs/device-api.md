@@ -40,13 +40,13 @@ UUID
 </table>
 
 #### Data description
-| Name | Type | Lower limit | Upper limit | Description |  
-| --- | --- | --- | --- | --- |  
-| Sequence number | Unsigned int | 0 | 8 bit | 抜けを検出するための連番。前回の値 + 1 以外の場合、抜けが発生している。 255 の次は 0。 |  
-| State |  |  |  | 加速度センサの State の値 |  
-| Value X | int | 10 bit | 10 bit | 加速度センサのX軸の値 |  
-| Value Y | int | 10 bit | 10 bit | 加速度センサのY軸の値 |  
-| Value Z | int | 10 bit | 10 bit | 加速度センサのZ軸の値 |  
+Name | Type | Lower limit | Upper limit | Description |  
+--- | --- | --- | --- | --- |  
+Sequence number | Unsigned int | 0 | 8 bit | 抜けを検出するための連番。前回の値 + 1 以外の場合、抜けが発生している。 255 の次は 0。 |  
+State |  |  |  | 加速度センサの State の値 |  
+Value X | int | 10 bit | 10 bit | 加速度センサのX軸の値 |  
+Value Y | int | 10 bit | 10 bit | 加速度センサのY軸の値 |  
+Value Z | int | 10 bit | 10 bit | 加速度センサのZ軸の値 |  
 
 ### Descriptors
 * [Client Characteristic Configuration](https://www.bluetooth.com/ja-jp/specifications/gatt/viewer?attributeXmlFile=org.bluetooth.descriptor.gatt.client_characteristic_configuration.xml)
