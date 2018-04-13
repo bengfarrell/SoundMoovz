@@ -62,7 +62,7 @@ UUID
 * [Client Characteristic Configuration](https://www.bluetooth.com/ja-jp/specifications/gatt/viewer?attributeXmlFile=org.bluetooth.descriptor.gatt.client_characteristic_configuration.xml)
 
 ### Threshold
-Adjust the sensitivity of the accelerometer.
+Adjust the sensitivity of the accelerometer.  
 (The threshold value has been reset to the default value after turning on the power)
 
 UUID
