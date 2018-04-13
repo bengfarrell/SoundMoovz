@@ -8,7 +8,7 @@ Advertise with the following name.
 
 Color information is as below.
 
-| Code | Name |
+| Color | Name |
 | --- | --- |
 | BK | Black |
 | NB | Navy Blue |
